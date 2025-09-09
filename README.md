@@ -1,6 +1,6 @@
-#🪐RULO-CODES
+##🪐RULO-CODES
 
-**'Digital Creator (Developer/Designer/Creator)'**
+**`Digital Creator (Developer/Designer/Creator)`**
 
 Hi there 👋
 
